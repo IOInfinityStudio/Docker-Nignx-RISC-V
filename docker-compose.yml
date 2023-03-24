@@ -1,0 +1,9 @@
+version: '3'
+services:
+  nginx:
+    build:
+       context: .
+    container_name: nginx-riscv
+    image: nginx-riscv
+    ports:
+      - "8080:80"
