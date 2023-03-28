@@ -1,6 +1,5 @@
 # Docker-Nignx-RISC-V
-Use Docker container to run Nginx on RISC-V architecture computer
-
+If you want to run Nginx on a RISC-V architecture computer, you can use a Docker container to simplify the process and ensure compatibility.
 
 ## Demo Video
 
